@@ -1,4 +1,4 @@
-The application `tgcf` offers a minimal command-line interface to start it. Most of the configuration is done by using the [`tgcf.config.yml`](https://github.com/aahnik/tgcf/wiki/CLI-Usage) file.
+The application `tgcf` offers a minimal command-line interface to start it. Most of the configuration is done by using the [`tgcf.config.yml`](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F) file.
 
 ```shell
 Arguments:

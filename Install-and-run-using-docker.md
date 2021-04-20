@@ -1,3 +1,5 @@
+# not yet ready
+
 It is assumed that you are familiar with basic `docker` commands.
 
 Make sure you have understood how `telewater` is run by passing certain variables via [command-line options](https://github.com/aahnik/tgcf/wiki/CLI-usage) or by setting them as [environment variables](https://github.com/aahnik/tgcf/wiki/Environment-Variables). 

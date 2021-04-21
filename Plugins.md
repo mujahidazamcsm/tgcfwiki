@@ -4,8 +4,8 @@ The official plugins are installed by default when you install `tgcf`. The sourc
 
 Some of the plugins may have additional non-python dependencies, which you need to manually install. Click on the link to the plugin to learn how to use it.
 
-1. [Filter]()
-2. [Replace]()
+1. [Filter](https://github.com/aahnik/tgcf/wiki/How-to-use-filters-%3F)
+2. [Replace](https://github.com/aahnik/tgcf/wiki/Text-Replacement-feature-explained)
 
 More plugins coming soon!
 

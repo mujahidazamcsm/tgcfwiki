@@ -15,7 +15,7 @@ $ docker pull aahnik/tgcf
 
 ## Run
 
-Write all your [environment variables](https://github.com/aahnik/telewater/wiki/Environment-Variables#create-a-env-file) in a file called `.env` and then use the `docker run` command to start the bot.
+Write all your [environment variables](https://github.com/aahnik/tgcf/wiki/Environment-Variables#create-a-env-file) in a file called `.env` and then use the `docker run` command to start the bot.
 
 ```shell
 $ docker run -d --env-file .env aahnik/tgcf

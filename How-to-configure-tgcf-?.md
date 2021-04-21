@@ -33,5 +33,5 @@ Here is the complete schema for the configuration file.
 - forward ( contains a `source` (integer), a `dest` (list of integers) and an `offset`(optional integer) )
 - `show_forwarded_from` (boolean: true/false)
 - `plugins` contain the name of the plugin and the data to be passed to that plugin.
-- What data to pass to plugins? is defined in the documentation for that plugin. Here is the [list of official plugins](https://github.com/aahnik/tgcf/wiki/Plugins).
+   - What data to pass to plugins? is defined in the documentation for that plugin. Here is the [list of all plugins](https://github.com/aahnik/tgcf/wiki/Plugins).
 

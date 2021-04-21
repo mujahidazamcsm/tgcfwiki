@@ -1,1 +1,1 @@
-This is footer!
+This is the footer! and foo

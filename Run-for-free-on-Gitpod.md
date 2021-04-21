@@ -4,7 +4,7 @@ If you are planning to use `tgcf`, then one way is to install it on your compute
 
 Click this button, to open a fresh workspace in Gitpod
 
-<a href="https://gitpod.io/#https://github.com/aahnik/python-in-gitpod">  <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Run on Gitpod" width=160></a>
+<a href="https://gitpod.io/#https://github.com/aahnik/tgcf">  <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Run on Gitpod" width=160></a>
 
 
 - You can easily create the `.env` and `tgcf.config.yml` files here

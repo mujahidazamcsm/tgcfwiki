@@ -1,4 +1,3 @@
-# not yet ready
 
 It is assumed that you are familiar with basic `docker` commands.
 

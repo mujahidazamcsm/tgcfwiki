@@ -1,10 +1,14 @@
 The application `tgcf` is configured using a simple `YAML` file. If you are new to the `YAML` syntax, don't worry, it's easy, and you will learn it.
 
+## Introducing YAML
+
 Tutorials on YAML syntax:
 - [Article by Tutorial Point](https://www.tutorialspoint.com/yaml/yaml_basics.htm) 
 - [Article by W3 Schools](https://www.w3schools.io/file/yaml-cheatsheet-syntax) 
 - [YouTube video by Nana](https://youtu.be/1uFVr15xDGg?t=73)
 
+
+## Example Configuration
 
 Below is an example configuration. Don't copy-paste this. Understand what each part does.
 
@@ -26,6 +30,8 @@ plugins:
       tokyo: delhi
       
 ```
+
+## Schema
 
 Here is the complete schema for the configuration file.
 

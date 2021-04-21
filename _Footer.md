@@ -1,1 +1,1 @@
-This is the footer! and foo
+Please read all the wiki pages and scroll through the issues and discussions, before you ask a question. You may ask in the [discussion forum](https://GitHub.com/aahnik/tgcf/discussions) and sponsors can get faster help via direct chat with me on Telegram.

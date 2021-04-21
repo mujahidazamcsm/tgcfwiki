@@ -1,8 +1,8 @@
 This tutorial is for python developers. If you are a general user, you may make a feature request for a plugin you need.
 
 ## Prerequisites
-- Intermediate level knowledge of Python programming language
-- Basic knowledge of Telethon
+- Intermediate level knowledge of [Python](https://python.org) programming language
+- Basic knowledge of [Telethon](https://github.com/LonamiWebs/Telethon)
 - Some idea about how `tgcf` works
 
 

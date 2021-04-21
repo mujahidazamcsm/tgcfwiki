@@ -11,7 +11,7 @@ More plugins coming soon!
 
 ## Third-Party Plugins
 
-Third-party plugins are those which are developed by other engineers. They live in their own repositories. If you have built a `tgcf` plugin, then you can list them here. Just send me a message on [Telegram](https://telegram.me/aahnikdaw).
+Third-party plugins are those which are developed by other developers. They live in their own repositories. If you have built a `tgcf` plugin, then you can list them here. Just send me a message on [Telegram](https://telegram.me/aahnikdaw).
 
 Read the tutorial [How to write a plugin for `tgcf`](https://github.com/aahnik/tgcf/wiki/How-to-write-a-plugin-for-tgcf-%3F) for more information.
 

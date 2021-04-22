@@ -22,3 +22,4 @@
 - [Plugins](https://github.com/aahnik/tgcf/wiki/Plugins)
 - [How to write a plugin for tgcf](https://github.com/aahnik/tgcf/wiki/How-to-write-a-plugin-for-tgcf-%3F)
 
+-----------

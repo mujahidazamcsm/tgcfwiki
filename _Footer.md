@@ -1,1 +1,1 @@
-Please read all the wiki pages and scroll through the issues and discussions, before you ask a question. You may ask in the [discussion forum](https://GitHub.com/aahnik/tgcf/discussions) and sponsors can get faster help via direct chat with me on Telegram.
+Have a question? Ask in the [discussion forum](https://github.com/aahnik/tgcf/discussions). But make sure to **read the wiki** first.

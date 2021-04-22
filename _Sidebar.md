@@ -1,12 +1,3 @@
-Welcome to the tgcf wiki!
-
-We are going to provide detailed documentation soon. Make sure you have gone through the README already.
-
-
-# Wiki Contents
-
-Here is the complete content for the `tgcf` wiki!
-
 ## Basics
 
 - [CLI Usage](https://github.com/aahnik/tgcf/wiki/CLI-Usage)

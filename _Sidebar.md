@@ -15,7 +15,7 @@
 - [Heroku](https://github.com/aahnik/tgcf/wiki/Deploy-to-Heroku)
 - [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod)
 - [Python Anywhere](https://github.com/aahnik/tgcf/wiki/Run-on-PythonAnywhere)
-- [Digital Ocean]()
+- [Digital Ocean](https://github.com/aahnik/tgcf/wiki/Deploy-to-Digital-Ocean)
 
 **Plugins**
 

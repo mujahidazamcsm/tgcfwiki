@@ -1,6 +1,6 @@
 **Basics**
 
-- [CLI Usage](https://github.com/aahnik/tgcf/wiki/CLI-Usage)
+- **[CLI Usage](https://github.com/aahnik/tgcf/wiki/CLI-Usage)**
 - [Past vs Live](https://github.com/aahnik/tgcf/wiki/Past-vs-Live-modes-explained)
 - [Environment Variables](https://github.com/aahnik/tgcf/wiki/Environment-Variables)
 - [Configuration](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F)

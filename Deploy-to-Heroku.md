@@ -17,10 +17,19 @@ You can deploy `tgcf` to Heroku very easily.
 
 ## One-click deploy
 
-1. Click on this button. 
+1. Make sure you have a Heroku account and then click on this button. 
 
    <a href="https://heroku.com/deploy?template=https://github.com/aahnik/tgcf">   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width=155></a>
 
 2. A Heroku page will open where you can set all the environment variables.
+
+- Set the name of the app whatever you want.
+  ![image](https://user-images.githubusercontent.com/66209958/115880520-7287f980-a468-11eb-9bfc-5a72cbe668d9.png)
+- Set your API ID and API HASH obtained from [my.telegram.org](https://my.telegram.org). Set the mode to `live`.
+  ![image](https://user-images.githubusercontent.com/66209958/115880695-a2370180-a468-11eb-9d9b-1c96dc536004.png)
+- You may keep your `SESSION_STRING` and `TGCF_CONFIG` empty for now.
+   ![image](https://user-images.githubusercontent.com/66209958/115880949-e1655280-a468-11eb-8061-5e177f359aff.png)
+
+
 
    

@@ -17,15 +17,25 @@ Here goes the complete guide to set up and use `tgcf` on a Windows machine.
     
    ![image](https://user-images.githubusercontent.com/66209958/115839540-608e6280-a438-11eb-91e6-9285cc6301ee.png)
 
-3. Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/) for easy editing of text files.
+3. By default windows has Notepad. Its a   horrible text editor. Windows file explorer is also shitty. It appends `.txt` to every text file. For a better experience, Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/) for easy editing of text files.
+When you will be writing the `tgcf.config.yml` VS code will automatically provide syntax highlighting and type checking.
    ![Screenshot (7)](https://user-images.githubusercontent.com/66209958/115840953-e4951a00-a439-11eb-9db4-b87733e2dd98.png)
 
+## Install tgcf
 
-4. Open Powershell in Windows Terminal and run pip install tgcf
+ Open Powershell in Windows Terminal and run pip install tgcf
 
    ![image](https://user-images.githubusercontent.com/66209958/115841408-6127f880-a43a-11eb-92fd-215ab3a4c8aa.png)
 
-5. Create a folder, go inside it, create .env and tgcf.config.yml, run tgcf
+
+## Configure and Run
+
+1. You should create a new folder to store `tgcf` configuration files. Every time you run `tgcf` you should run from inside this folder. 
+
+2. Open the folder with VS Code and create the files `.env` and `config.tgcf.yml`. 
+You will be required to login to your Telegram account only for the first time. The session files will be stored in this folder. Don't delete them, and keep them secret.
+
+, go inside it, create .env and tgcf.config.yml, run tgcf
 
 
 

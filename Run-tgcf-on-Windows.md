@@ -41,7 +41,10 @@ You will be required to login to your Telegram account only for the first time. 
 ![Screenshot (15)](https://user-images.githubusercontent.com/66209958/115847590-be26ad00-a440-11eb-9879-b78cabef0d2d.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/66209958/115847693-d5659a80-a440-11eb-9e3e-fcdff16c3c97.png)
 
+3. Open terminal in VS Code and run tgcf
 
+![Screenshot (19)](https://user-images.githubusercontent.com/66209958/115848550-9f74e600-a441-11eb-92bb-ee014a9639c7.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/66209958/115848561-a1d74000-a441-11eb-87c7-731be1bcbca9.png)
 
-
+Every time, run tgcf from the same folder.
 

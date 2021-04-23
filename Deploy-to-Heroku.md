@@ -42,23 +42,12 @@ You can deploy `tgcf` to Heroku very easily.
 3. It will take some time to build and deploy. After the deployment is complete, click on the manage app button.
    ![image](https://user-images.githubusercontent.com/66209958/115881849-cb0bc680-a469-11eb-8b35-6bf5c6a5eca4.png)
 
+4. How to get the session string? [Read this](https://github.com/aahnik/tgcf/wiki/Login-with-a-bot-or-user-account#generate-session-string).
 
-4. On the top right corner click More -> Run console
+5. Now go to the settings tab and click Reveal config vars. Click on the pencil button for the session string and config var, and then paste the session string the value of that.
 
-  ![image](https://user-images.githubusercontent.com/66209958/115882093-0c9c7180-a46a-11eb-8b1c-50abc08441fb.png)
+6. Learn [how to configure tgcf](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F), and then write your configuration in the `TGCF_CONFIG` env var.
 
-5. Write the `tg-login` command and click run.
-
-
-   ![image](https://user-images.githubusercontent.com/66209958/115882211-2dfd5d80-a46a-11eb-896f-d543ee629f38.png)
-
-   
-This will ask you for you phone no. or bot token. And then display the session string to you. Copy this session string. If you cant copy directly, click the save button to save a text file on your computer, and then copy the session string from it.
-
-6. Now go to the settings tab and click Reveal config vars. Click on the pencil button for the session string config var, and then paste the session string the value of that.
-
-7. Learn [how to configure tgcf](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F), and then write your configuration in the `TGCF_CONFIG` env var.
-
-8. Go to the resources tab, and turn on the worker and click confirm.
+7. Go to the resources tab, and turn on the worker and click confirm.
 
 ![image](https://user-images.githubusercontent.com/66209958/115882913-dc090780-a46a-11eb-980b-6b0f49ff45f5.png)

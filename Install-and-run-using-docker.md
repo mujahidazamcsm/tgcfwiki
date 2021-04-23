@@ -1,12 +1,13 @@
+It is assumed that you are familiar with basic `docker` commands. Docker should be properly installed and running in your system. 
 
-It is assumed that you are familiar with basic `docker` commands.
 
 - Make sure you have understood how `tgcf` is run by passing certain variables via [command-line options](https://github.com/aahnik/tgcf/wiki/CLI-usage) or by setting them as [environment variables](https://github.com/aahnik/tgcf/wiki/Environment-Variables).
 - Read about [`tgcf.config.yml`](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F) to know how you can configure `tgcf`
 
 ## Install
 
-Docker should be properly installed and running in your system.
+
+Pull the [official docker image](https://hub.docker.com/r/aahnik/tgcf) from DockerHub.
 
 ```shell
 $ docker pull aahnik/tgcf

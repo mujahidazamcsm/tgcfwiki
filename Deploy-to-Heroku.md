@@ -59,6 +59,6 @@ This will ask you for you phone no. or bot token. And then display the session s
 
 7. Learn [how to configure tgcf](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F), and then write your configuration in the `TGCF_CONFIG` env var.
 
-8. Go to the resources tab, and turn on the worker.
+8. Go to the resources tab, and turn on the worker and click confirm.
 
 ![image](https://user-images.githubusercontent.com/66209958/115882913-dc090780-a46a-11eb-980b-6b0f49ff45f5.png)

@@ -34,8 +34,14 @@ When you will be writing the `tgcf.config.yml` VS code will automatically provid
 
 2. Open the folder with VS Code and create the files `.env` and `config.tgcf.yml`. 
 You will be required to login to your Telegram account only for the first time. The session files will be stored in this folder. Don't delete them, and keep them secret.
-
 , go inside it, create .env and tgcf.config.yml, run tgcf
+![Screenshot (12)](https://user-images.githubusercontent.com/66209958/115847554-b5ce7200-a440-11eb-93e0-55de40a611e5.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/66209958/115847567-b8c96280-a440-11eb-8540-34dd89c273c9.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/66209958/115847578-bbc45300-a440-11eb-8dff-6e9f163885ba.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/66209958/115847590-be26ad00-a440-11eb-9879-b78cabef0d2d.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/66209958/115847693-d5659a80-a440-11eb-9e3e-fcdff16c3c97.png)
+
+
 
 
 

@@ -10,9 +10,9 @@ If you are planning to use `tgcf`, then one way is to install it on your compute
 
 2. Don't worry about the huge no. of source code files in the IDE. If you are not a developer, then leave them alone.
 
-3. Create two new files `.env` and `tgcf.config.yml` and fill them up.
+3. Create two new files [`.env`](https://github.com/aahnik/tgcf/wiki/Environment-Variables) and [`tgcf.config.yml`](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F) and fill them up.
 
-4. Open the terminal, and activate the `poetry shell`
+4. Open the terminal, and activate the virtual environment where everything is installed.
 
    ```shell
      poetry shell

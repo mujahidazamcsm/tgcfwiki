@@ -3,9 +3,25 @@ DigitalOcean infrastructure is a leading cloud service provider based in the Uni
 
 ## App Platform
 
-You can deploy `tgcf` to the Digital Ocean app platform with the click of a button. The app will be built from the Dockerfile defined at the root of the project.
 
-You can set the environment variables while deploying, from a nice GUI that DigitalOcean offers. You can always edit them later from the control panel. You can even run a console in the app environment to perform other tasks.
+![create-app](https://user-images.githubusercontent.com/66209958/113475188-aab3a200-9491-11eb-8649-9c4111d05a1b.png)
+
+Click **Create** -> *Apps*
+
+
+![source-is-docker-hub](https://user-images.githubusercontent.com/66209958/113475207-c1f28f80-9491-11eb-84d1-5b90e6a4ee3c.png)
+
+Choose **Docker Hub** as the source.
+Choose the **type** as _"Worker"_ (as we are not making any web app).
+
+In the next step,the **repository** path is _"aahnik/tgcf"_.
+
+![type-worker](https://user-images.githubusercontent.com/66209958/113475243-fbc39600-9491-11eb-9c2e-96fb0487d43d.png)
+
+You can now set the values of the [environment variables](https://github.com/aahnik/tgcf/wiki/Environment-Variables) from this beautiful interface provided by Digital Ocean.
+
+Give any name to your app. After this, you will be lead to a pricing page. Choose a pricing plan suitable for you and click "Launch basic app".
+
 
 
 ## Ubuntu Droplet

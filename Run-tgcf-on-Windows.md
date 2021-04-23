@@ -17,9 +17,15 @@ Here goes the complete guide to set up and use `tgcf` on a Windows machine.
     
    ![image](https://user-images.githubusercontent.com/66209958/115839540-608e6280-a438-11eb-91e6-9285cc6301ee.png)
 
-3. Install VS Code for easy editing of text files.
+3. Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/) for easy editing of text files.
+   ![Screenshot (7)](https://user-images.githubusercontent.com/66209958/115840953-e4951a00-a439-11eb-9db4-b87733e2dd98.png)
+
 
 4. Open Powershell in Windows Terminal and run pip install tgcf
 
+   ![image](https://user-images.githubusercontent.com/66209958/115841408-6127f880-a43a-11eb-92fd-215ab3a4c8aa.png)
+
 5. Create a folder, go inside it, create .env and tgcf.config.yml, run tgcf
+
+
 

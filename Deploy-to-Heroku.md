@@ -24,12 +24,41 @@ You can deploy `tgcf` to Heroku very easily.
 2. A Heroku page will open where you can set all the environment variables.
 
 - Set the name of the app whatever you want.
+
   ![image](https://user-images.githubusercontent.com/66209958/115880520-7287f980-a468-11eb-9bfc-5a72cbe668d9.png)
+
 - Set your API ID and API HASH obtained from [my.telegram.org](https://my.telegram.org). Set the mode to `live`.
+
   ![image](https://user-images.githubusercontent.com/66209958/115880695-a2370180-a468-11eb-9d9b-1c96dc536004.png)
+
 - You may keep your `SESSION_STRING` and `TGCF_CONFIG` empty for now.
+
    ![image](https://user-images.githubusercontent.com/66209958/115880949-e1655280-a468-11eb-8061-5e177f359aff.png)
 
+- Now click the deploy app button.
 
+   ![image](https://user-images.githubusercontent.com/66209958/115881393-52a50580-a469-11eb-9bb8-4b1cd1a74289.png)
+
+3. It will take some time to build and deploy. After the deployment is complete, click on the manage app button.
+   ![image](https://user-images.githubusercontent.com/66209958/115881849-cb0bc680-a469-11eb-8b35-6bf5c6a5eca4.png)
+
+
+4. On the top right corner click More -> Run console
+
+  ![image](https://user-images.githubusercontent.com/66209958/115882093-0c9c7180-a46a-11eb-8b1c-50abc08441fb.png)
+
+5. Write the `tg-login` command and click run.
+
+
+   ![image](https://user-images.githubusercontent.com/66209958/115882211-2dfd5d80-a46a-11eb-896f-d543ee629f38.png)
 
    
+This will ask you for you phone no. or bot token. And then display the session string to you. Copy this session string. If you cant copy directly, click the save button to save a text file on your computer, and then copy the session string from it.
+
+6. Now go to the settings tab and click Reveal config vars. Click on the pencil button for the session string config var, and then paste the session string the value of that.
+
+7. Learn [how to configure tgcf](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F), and then write your configuration in the `TGCF_CONFIG` env var.
+
+8. Go to the resources tab, and turn on the worker.
+
+![image](https://user-images.githubusercontent.com/66209958/115882913-dc090780-a46a-11eb-980b-6b0f49ff45f5.png)

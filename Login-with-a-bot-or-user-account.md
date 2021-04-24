@@ -17,6 +17,7 @@ Click on the below button to run in a free repl.
 
 [![run on repl](https://docs.replit.com/images/repls/run-on-replit.svg)](https://replit.com/@aahnik/tg-login)
 
+- The session string will not be printed on the screen. (for security purposes)
 - The session string will be securely saved in your Saved Messages (if you log in with your own user account).
 - The session string will be sent to you (if you log in with a bot account).
 - All sensitive user input in the repl is made invisible to ensure high security.

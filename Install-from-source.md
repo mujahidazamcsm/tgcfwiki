@@ -4,6 +4,21 @@ Requirement: Make sure you have python, poetry, git installed. Docker is require
 
 1. Clone the repo and move into it
    ```shell
- 
+   git clone https://github.com/aahnik/tgcf.git && cd tgcf
+   ```
 
-   
+2. Install dependancies with `poetry`
+   ```shell
+   poetry install
+   ```
+
+3. Activate virtual environment
+   ```shell
+
+   poetry shell
+   ```
+
+More details coming soon!
+
+
+

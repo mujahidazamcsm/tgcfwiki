@@ -16,6 +16,17 @@ Just open your termux and run this:
 curl -Lks bit.ly/tgcf-termux | bash
 ```
 
+<details>
+<summary> What happens when you run the above line? </summary>
+<br>
+
+- The above line (the installation command) actually fetches the installer script and runs it using bash. 
+- Read the installer script by visiting the link [bit.ly/tgcf-termux](http://bit.ly/tgcf-termux). You may execute the lines one by one, manually.
+
+</details>
+
+
+
 ## Testing
 
 To test if `tgcf` was properly installed, 

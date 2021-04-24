@@ -16,6 +16,9 @@ Here goes the complete guide to set up and use `tgcf` on a Windows machine.
    ![image](https://user-images.githubusercontent.com/66209958/115839446-49e80b80-a438-11eb-9149-b93d6218e0dc.png)
     
    ![image](https://user-images.githubusercontent.com/66209958/115839540-608e6280-a438-11eb-91e6-9285cc6301ee.png)
+   
+
+   ![image](https://user-images.githubusercontent.com/66209958/115959754-644ee180-a52b-11eb-8ff7-a55692beb853.png)
 
 3. By default windows has Notepad. Its a   horrible text editor. Windows file explorer is also shitty. It appends `.txt` to every text file. For a better experience, Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/) for easy editing of text files.
 When you will be writing the `tgcf.config.yml` VS code will automatically provide syntax highlighting and type checking.

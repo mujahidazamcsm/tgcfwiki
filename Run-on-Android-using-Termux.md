@@ -6,6 +6,8 @@ The Termux app in Android offers you a full-blown Linux terminal.
 
 Install [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US) from Google Play Store.
 
+> **Note:** Termux does not work well with Android 5 or 6. Don't worry! Most probably you have a much newer version of Android.
+
 ## Install `tgcf` on termux
 
 Just open your termux and run this:

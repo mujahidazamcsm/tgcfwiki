@@ -10,6 +10,19 @@ Do you want to deploy `tgcf` to a cloud platform but during the deployment proce
 
 For that, you may generate a session string by running `tg-login` in an interactive shell, and then copy the value of the session string printed to the console. This value should be put inside the environment variable `SESSION_STRING`.
 
+
+### Run Online
+
+Click on the below button to run in a free repl. 
+
+[![run on repl](https://docs.replit.com/images/repls/run-on-replit.svg)](https://replit.com/@aahnik/tg-login)
+
+- The session string will be securely saved in your Saved Messages (if you log in with your own user account).
+- The session string will be sent to you (if you log in with a bot account).
+- All sensitive user input in the repl is made invisible to ensure high security.
+
+### Run on your machine
+
 - Open your terminal in Mac/Windows/Linux/Android
 - Make sure you have `python` installed.
   If you don't have python:

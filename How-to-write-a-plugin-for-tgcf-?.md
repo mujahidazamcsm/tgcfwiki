@@ -22,17 +22,16 @@ First of all, create a folder named `tgcf_hello`, and inside it create `__init__
 ```python
 # __init__.py
 
-from telethon.hints import MessageLike
 
 class TgcfHello:
     id = "hello"
     # the plugin class must have this `id` attribute
 
-    def __init__(self, data)->None:
+    def __init__(self, data):
         # the plugin class must have a constructor and should validate data here
         self.data = data
 
-    def modify(self, message: MessageLike)->MessageLike:
+    def modify(self, message):
         # the modify method, receives the message collected by tgcf
         # the output of this method will be forwarded
 

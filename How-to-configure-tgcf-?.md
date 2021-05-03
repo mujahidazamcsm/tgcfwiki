@@ -7,8 +7,15 @@ Tutorials on YAML syntax:
 - [Article by W3 Schools](https://www.w3schools.io/file/yaml-cheatsheet-syntax) 
 - [YouTube video by Nana](https://youtu.be/1uFVr15xDGg?t=73)
 
+## Where to write
+
+You may write your configuration in the `tgcf.config.yml` file. (when running on your own computer)
+
+When you are deploying on a cloud platform where you can't edit files, you may configure tgcf using environment variables. The contents of `tgcf.config.yml` can be put inside the environment variable called `TGCF_CONFIG`. Read the wiki for platform-specific guides on how to set environment variables in different platforms.
+
 
 ## Example Configuration
+
 
 Below is an example configuration. Don't copy-paste this. Understand what each part does.
 

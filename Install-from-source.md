@@ -1,12 +1,19 @@
 Warning: This method of installation of `tgcf` is only for python developers, and not recommended for normal users.
 
-Requirements: 
-- git (to clone the repo)
-- python (language tgcf is written)
-- poetry (used for package management)
-- docker (if you want to build docker images)
-- make (if you are interested in developing)
+## Requirements
 
+| Thing                                        | Why                                                    |
+| -------------------------------------------- | ------------------------------------------------------ |
+| [`git `](https://git-scm.com/)               | to clone the repo and for version control              |
+| [`python`](https://www.python.org/)          | language tgcf is written                               |
+| [`poetry`](https://python-poetry.org/)       | used for package management                            |
+| [`docker`](https://www.docker.com/)          | if you want to build docker images or run using docker |
+| [`make`](https://www.gnu.org/software/make/) | if you are interested in developing                    |
+
+
+
+
+## Steps
 
 1. Clone the repo and move into it
    ```shell

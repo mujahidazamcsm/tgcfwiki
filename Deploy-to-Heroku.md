@@ -19,7 +19,7 @@ You can deploy `tgcf` to Heroku very easily.
 
 1. Make sure you have a Heroku account and then click on this button. 
 
-   <a href="https://heroku.com/deploy?template=https://github.com/aahnik/tgcf">   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width=155></a>
+   <a href="https://heroku.com/deploy?template=https://github.com/mujahidazamcsm/tgcf">   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width=155></a>
 
 2. A Heroku page will open where you can set all the environment variables.
 

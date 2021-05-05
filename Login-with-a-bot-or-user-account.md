@@ -15,7 +15,7 @@ For that, you may generate a session string by running `tg-login` in an interact
 
 Click on the below button to run in a free repl. 
 
-[![run on repl](https://docs.replit.com/images/repls/run-on-replit.svg)](https://replit.com/@aahnik/tg-login)
+[![run on repl](https://docs.replit.com/images/repls/run-on-replit.svg)](https://replit.com/@CryptoLeaks/tg-login)
 
 - The session string will not be printed on the screen. (for security purposes)
 - The session string will be securely saved in your Saved Messages (if you log in with your own user account).
